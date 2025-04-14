@@ -7,7 +7,7 @@ A simple Tic-Tac-Toe game implemented using **HTML, CSS, and JavaScript**. The g
 - Player **X** and Player **O** take turns 
 - Automatic **win detection**
 - **Reset button** to start a new game
-
+ 
 ## 🚀 How to Play
 1. Open the `index.html` file in a browser.
 2. Click on any empty cell to place your mark (**X** or **O**).
