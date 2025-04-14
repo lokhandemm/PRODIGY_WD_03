@@ -5,7 +5,7 @@ A simple Tic-Tac-Toe game implemented using **HTML, CSS, and JavaScript**. The g
 ## 📌 Features
 - Interactive **3x3 grid**
 - Player **X** and Player **O** take turns 
-- Automatic **win detection**
+- Automatic **win detection** 
 - **Reset button** to start a new game
  
 ## 🚀 How to Play
